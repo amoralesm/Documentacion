@@ -56,7 +56,7 @@ Para bloques de codigo grandes se usa ~tres veces
 Si solo quiero resaltar codigo en una frase, se usan acentos `codigo`
 
 
-## Anular Markdown para escribir caraacteres especiales
+## Anular Markdown para escribir caracteres especiales
 De esta forma \*anulas markdown*
 
 ## Escribir TABULADOR
