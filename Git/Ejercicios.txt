@@ -1,0 +1,37 @@
+Staging Files / Ver ek estado actual / Borrar ficheros
+
+1) Añadir al indice file1.js
+2) Borrar del indice file1.js
+3) Añadir al indice file1.js y file3.txt
+4) Borrar del indice file1.js
+5) Añadir al indice todos los .js
+6) Borrar todo del indice
+7) Añadir todo al indice
+8) Borrar file2.js del indice y de local
+9) Ver el estado actual del indice tanto resumida como completa
+10) Commitear un un mensaje
+11) Abrir el editor del commit para poner un mensaje mas extenso
+12) Commitear directamente algo sin añadirlo al indice antes
+
+
+Movimiendo o renombrando ficheros / Ver diferencias entre ficheros 
+
+1) Renombrar el fichero file1.js a file1new.js
+2) Mover el fichero a test1/file1new.js
+3) Mover el fichero a Testing y renombrarlo a la vez a file1.js de nuevo
+4) Escribir algo en file3.txt y ver las diferencias con el repositorio
+5) Modificar file1.js y añadir file3.txt al indice
+6) Ver las diferencias unicamente de los archivos del indice y no de los cambios locales
+7) Commitear
+
+
+Ver historial / Ver un commit concreto
+
+1) Ver el historial de commmits completo
+2) Ver el historial de commits resumido
+3) Ver el historial de commits del mas viejo al mas nuevo
+4) Ver los datos de un commit concreto
+5) Ver los datos del HEAD
+6) Ver los datos de 1 commit anterior al HEAD
+7) Ver los cambios en file3.txt de HEAD
+8) Ver los cambios file1.js en el penultimo commit
