@@ -1,5 +1,6 @@
 # GIT
 
+## Creando Snapshots
 **Inicializando Repositorios**
 >git init
 
@@ -14,16 +15,22 @@
 >git status &emsp;#Full status
 >git status -s &emsp;#Short status
 
+**Cambiar el editor por defecto de Git**
+ >git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin" &emsp;#En este caso se ha cambiado por Notepad++
+
 **Commiteando las Staged files**
 > git commit -m "Mensaje" &emsp;#Commit con un pequeño mensaje
 > git commit &emsp; #Commit abriendo el editor por defecto, para poner un mensaje mas grande
 
 **Commitear directamente**
-*Te saltas la parte de añadir los archivos el área de Preparación. Los commiteas directamente sin staging.*
->git commig-am "Mensaje"
+*Te saltas la parte de añadir los archivos el área de Preparación. Los commiteas directamente sin staging. Comitea todos los archivos que detecte con cambios y que estuvieran trackeados de antemano.*
+>git commit -am "Mensaje"
+
+**Subir los commits al repositorio**
+>git push
 
 **Borrando ficheros**
->git rm file.js &emsp;#Lo borra tanto del directorio local como del área de staging
+>git rm file.js &emsp;#Lo borra tanto del directorio local (solo si no está en el área de staging)
 >git rm --cached file1.js &emsp;#Lo borra solo del área de staging
 
 **Movimiendo o renombrando ficheros**
@@ -60,3 +67,32 @@
 >git clean -fd &emsp;#Borra todos los archivos no trackeados
 
 **Restaurando versiones anteriores**
+> git restore --source=HEAD~2 file.js
+
+
+## Manejando el Historial
+**Ver el historial**
+> git log --stat &emsp;#Muestra la lista de las modificaciones (resumida)
+> git log --path &emsp;#Muestra todos los cambios concretos realizados
+
+**Filtrar historial**
+>git log -3  &emsp;#3 últimas entradas
+>git log --author="Mosh"  &emsp;#Por autor
+>git log --before="2020-08-17"  &emsp;#Por fecha
+>git log --after="one week ago"  &emsp;#Por fecha
+>git log --grep="GUI"  &emsp;#Commits que contengan la palabra 'GUI' en su mensaje
+>git log --S"GUI" &emsp;#Commits que contengan la palabra 'GUI' en su cambios
+>git log hash1..hash2 &emsp;#Muestra un rango de commits (no se como funciona)
+>git log file.txt &emsp;#Muestra todos los commits que han tocado file.txt
+
+
+**Formateando el output del log**
+*Muestra los mismos logs, pero podemos decirle como queremos que nos lo muestre en esta ocasión. Solo sirve para este comando, no cambia la propia configuración de GIT.*
+> git log --pretty=format:"%an committed %H" &emsp;#Muestra todos los commits con el formato 'NOMBRE an committed COMMIT_ID'
+
+**Creando alias**
+Un alias es un acrónimo de otro comando. De esta forma puedes definir un alias corto y escribirlo en vez de un comando mucho mas complejo.
+>git config --global alias.lg "log --oneline" &emsp;#Tras esto, puedes escribir 'git lg' y ejecutara el mismo comando que 'git log --oneline'. Esto resulta tremendamente útil para ir escribiendo alias de los comandos que mas utilicemos
+
+
+**Viendo un commit**

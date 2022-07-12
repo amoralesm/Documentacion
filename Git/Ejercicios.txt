@@ -1,4 +1,4 @@
-Staging Files / Ver ek estado actual / Borrar ficheros
+Staging Files / Ver el estado actual / Borrar ficheros
 
 1) Añadir al indice file1.js
 2) Borrar del indice file1.js
@@ -9,7 +9,7 @@ Staging Files / Ver ek estado actual / Borrar ficheros
 7) Añadir todo al indice
 8) Borrar file2.js del indice y de local
 9) Ver el estado actual del indice tanto resumida como completa
-10) Commitear un un mensaje
+10) Commitear con un mensaje
 11) Abrir el editor del commit para poner un mensaje mas extenso
 12) Commitear directamente algo sin añadirlo al indice antes
 
