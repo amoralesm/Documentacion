@@ -1,18 +1,17 @@
-Staging Files / Ver el estado actual / Borrar ficheros
+Staging Files / Ver el estado actual / Borrar ficheros / Quitar del indice
 
 1) Añadir al indice file1.js
-2) Borrar del indice file1.js
-3) Añadir al indice file1.js y file3.txt
-4) Borrar del indice file1.js
-5) Añadir al indice todos los .js
-6) Borrar todo del indice
-7) Añadir todo al indice
-8) Borrar file2.js del indice y de local
+2) Quitar del indice file1.js
+3) Añadir todos los .js y crear a mano un .txt
+4) Cambiar algo en ambos .js
+5) Restaurar todo del indice a local (quitar los cambios del 4)
+6) Borrar todo lo no trackeado (borrar el txt)
+7) Volver a crear el .txt y añadirlo al indice
+8) Borrar el .txt tanto del indice como de local
 9) Ver el estado actual del indice tanto resumida como completa
 10) Commitear con un mensaje
 11) Abrir el editor del commit para poner un mensaje mas extenso
 12) Commitear directamente algo sin añadirlo al indice antes
-
 
 Movimiendo o renombrando ficheros / Ver diferencias entre ficheros 
 
@@ -21,8 +20,8 @@ Movimiendo o renombrando ficheros / Ver diferencias entre ficheros
 3) Mover el fichero a Testing y renombrarlo a la vez a file1.js de nuevo
 4) Escribir algo en file3.txt y ver las diferencias con el repositorio
 5) Modificar file1.js y añadir file3.txt al indice
-6) Ver las diferencias unicamente de los archivos del indice y no de los cambios locales
-7) Commitear
+6) Ver las diferencias unicamente de los archivos del indice
+7) Ver las diferencias unicamente de los archivos locales
 
 
 Ver historial / Ver un commit concreto
