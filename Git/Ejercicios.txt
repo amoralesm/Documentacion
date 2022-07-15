@@ -1,3 +1,5 @@
+-Remmote-
+
 Staging Files / Ver el estado actual / Borrar ficheros / Quitar del indice
 
 1) Añadir al indice file1.js
@@ -12,6 +14,7 @@ Staging Files / Ver el estado actual / Borrar ficheros / Quitar del indice
 10) Commitear con un mensaje
 11) Abrir el editor del commit para poner un mensaje mas extenso
 12) Commitear directamente algo sin añadirlo al indice antes
+
 
 Movimiendo o renombrando ficheros / Ver diferencias entre ficheros 
 
