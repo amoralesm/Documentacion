@@ -15,7 +15,7 @@ Staging Files / Ver el estado actual / Borrar ficheros / Quitar del indice
 11) Abrir el editor del commit para poner un mensaje mas extenso
 12) Commitear directamente algo sin añadirlo al indice antes
 
-
+-Remmote-
 Movimiendo o renombrando ficheros / Ver diferencias entre ficheros 
 
 1) Renombrar el fichero file1.js a file1new.js
