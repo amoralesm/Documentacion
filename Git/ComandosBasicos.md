@@ -42,7 +42,7 @@
 
 **Borrando ficheros**
 De esta manera puedes borrarlos del indice (por ejemplo) y dejar de trackearlos.
->git rm file.js &emsp;#Lo borra tanto del directorio local (solo si no está en el área de staging)
+>git rm file.js &emsp;#Lo borra de local y del índice
 >git rm --cached file1.js &emsp;#Lo borra solo del área de staging
 
 **Movimiendo o renombrando ficheros**
@@ -52,8 +52,8 @@ De esta manera puedes borrarlos del indice (por ejemplo) y dejar de trackearlos.
 
 **Viendo diferencias entre ficheros**
 *Diferencias entre los ficheros locales y el repositorio*
->git diff &emsp;#Archivos no staged.
->git diff --staged &emsp;# Solo de los archivos Staged.
+>git diff &emsp;#Diferencias entre local y índice
+>git diff --staged &emsp;# Diferencias entre índice y el repo
 
 **Ver Historial**
 >git log &emsp;#Completo
