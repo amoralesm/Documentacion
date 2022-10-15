@@ -1,5 +1,5 @@
 # Make Time (Jake Knapp y John Zeratsky)
-![test](img/MakeTime/graficoMakeTime.png)
+[[img/MakeTime/graficoMakeTime.png]]
 
 #### Al comienzo del libro se explican dos conceptos claves para entender el motivo de la creación del libro:
 **Efecto carroza**: Hacer las cosas por que el resto las hace. Únicamente debido a la presión de grupo. En el contexto del libro se refiere a que la tendencia actual de la sociedad es ser lo máximo productivo posible. Si no te sometes a la misma presión tienes una falsa sensación de estar "quedándote atrás". Te esfuerzas demasiado ya que es lo "normal", aunque eso te haga infeliz y te cause estrés.
@@ -108,4 +108,4 @@ Como tener mas energía para estar a tope durante el día y realizar correctamen
 Medir los resultados es tan importe como lograrlos. Tomar nota del proceso, modificar, ajustar y perfeccionar el método.
 Al comenzar a aplicar las ideas de este libro se debe, **todos los días** llevar a cabo un registro de la siguiente forma.
 
-![Registro](img/MakeTime/resumen.png)
+![[img/MakeTime/resumen.png]]
