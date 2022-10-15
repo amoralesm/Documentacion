@@ -9,6 +9,8 @@
 ##### Encabezado
 ###### Encabezado
 
+## Escribir un enter
+Doble space
 
 ## Citas
 > Esto es una cita
@@ -41,7 +43,7 @@ ___
 
 
 ## Enlaces
-[Frase del enlace](www.google.es"Title")
+[Frase del enlace](www.google.es"Title") ó [[enlace]]
 
 <www.google.es>
 
