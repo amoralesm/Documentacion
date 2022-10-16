@@ -14,7 +14,7 @@
 - Tu prioridad no será lo único que harás en tu día, pero si lo mas importante.
 
 ### 3 maneras para elegir tu prioridad
-1. **Urgencia**. Escoger la prioridad diaria por que es algo que necesitar llevar a cabo hoy. Fechas limites.
+1. **Urgencia**. Escoger la prioridad diaria por que es algo que necesitas llevar a cabo hoy. Fechas limites.
 2. **Satisfacción**. Elegir la prioridad por que es algo que realmente te aporta mas sensación de desarrollo personal. Como aprender un idioma, por ejemplo. Este tipo de tareas son las predispuestas a ser procrastinadas, ya que no son urgentes ni producen diversión a corto plazo.
 3. **Diversión**. Las tareas que realmente te apetecen hoy, que mas te van divertir. ¿Qué es lo que haría que te lo pasaras mejor hoy?.
 
@@ -38,9 +38,9 @@
 
 ## Laser
 
-Cuanto mas tiempo pases realizando una tarea, mas inmerso estarás en ella y mejor trabajarás. Esto no solo se aplica a el tiempo que pases trabajando de forma seguida sin interrupciones, tambien se aplica a lo acostumbrado a hacer esa tarea que estés.
+Cuanto mas tiempo pases realizando una tarea, mas inmerso estarás en ella y mejor trabajarás. Esto no solo se aplica a el tiempo que pases trabajando de forma seguida sin interrupciones, tambien se aplica a lo acostumbrado que estés a hacer esa tarea.
 El ser humano tarda de media 23 min en volver a concentrarse en una tarea.
-La música, ruido blanco etc, no ayuda en cualquier caso. Lo único fiable es el silencio absoluto.
+La música, ruido blanco etc, no ayuda en ningún caso. Lo único fiable es el silencio absoluto.
 
 ### Tácticas para mantener la concentración
 - Poner barreas a las distracciones. Hacer log out de cualquier app o pagina en la que se este registrado. Tener que iniciar sesión conscientemente antes de distraerte.
@@ -48,8 +48,8 @@ La música, ruido blanco etc, no ayuda en cualquier caso. Lo único fiable es el
 - Limpiar la pantalla principal del tlf. Evitar tenerla lleva de iconos de apps.
 - Configurar el modo no molestar y poner que únicamente suenen las llamadas por si es una emergencia.
 - Mejorar la concentración y las ganas de trabajar con ayunos de dopamina. Intentar evitar el mayor tiempo posible distracciones tras levantarse (evitar tlf, pantallas, xataca, etc). Luego resulta mas sencillo concentrarse.
-- Apagar el ordenador al terminar dejando el navegador limio. No hibernar.
-- Usar bloqueadores de paginas web durante la jornada laboral.
+- Apagar el ordenador al terminar dejando el navegador limpio. No hibernar.
+- Usar bloqueadores de páginas web durante la jornada laboral.
 - Identificar **cráteres de tiempo**. Pequeñas distracciones que al final del día hacen que pierdas mucho tiempo. Como 9gag.   
 
 ##### TV
@@ -59,7 +59,7 @@ La música, ruido blanco etc, no ayuda en cualquier caso. Lo único fiable es el
 #### General
 - Llevar a cabo una rutina pre-trabajo para acostumbrarse a que lo siguiente que viene es concentrarse.
 - Cerrar la puerta o ponerse cascos para evitar ruidos innecesarios.
-- Inventar fechas limites para tus proyectos personales. Comprometerse con alguien para enseñarle o entregarse un proyecto antes de tenerlo terminado.
+- Inventar fechas límites para tus proyectos personales. Comprometerse con alguien para enseñarle o entregarse un proyecto antes de tenerlo terminado.
 - Fragmentar las tareas en otras mas pequeñas siempre acompañas de un verbo. (**Diseñar** menús, **discutir** diseños, **programar** diseños, **enseñar** resultados.
 - Dividir los hábitos con:
 	1. Desencadenante. Siempre realizar la misma acción para empezar cierta actividad.
@@ -85,7 +85,7 @@ Como tener mas energía para estar a tope durante el día y realizar correctamen
 4. Desconectarse de aparatos eléctricos.
 
 #### Tácticas para mejorar tu energía
-- 20-30 min de ejercicio diarios. No siempre ponerse un podcast. Se pueden usar esos minutos para meditar y pensar. Existen tambien versiones de entrenamientos de 7 min de alta intensidad que pueden ser útiles para cuando se tiene menos tiempo.
+- 20-30 min de ejercicio diarios. No siempre ponerse un podcast. Se pueden usar esos minutos para meditar y pensar. Existen también versiones de entrenamientos de 7 min de alta intensidad que pueden ser útiles para cuando se tiene menos tiempo.
 - Evitar el azúcar todo lo que se pueda. El azúcar provoca subidas de azúcar, pero también bajadas posteriores que te dejan KO. Evitarlo en la medida de lo posible.
 - Tomar un primer café entre 9:30-10:30 y la última taza de café entre la 1:30 y las 2:30. Ajustarlo de forma personal. Levantarse sin café. Los niveles de cortisona en una persona suelen estar en su punto mas alto sobre las 8-9 am. Eso debería bastar para mantenerse despierto.
 - Intentar hacer siestas con café. Tomarse un buen café y echarse posteriormente una siesta de 15-30 min.
