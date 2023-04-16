@@ -1,0 +1,1 @@
+Una interfaz de Javax Jpa. Representa una conexion con la BBDD y toda la configuración necesaria para ella.
